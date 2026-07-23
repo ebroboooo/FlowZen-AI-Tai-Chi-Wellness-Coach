@@ -1,0 +1,6 @@
+{
+  "name": "FlowZen",
+  "description": "AI-powered Tai Chi, Qigong, wellness coaching, mindfulness, and progress tracking application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
